@@ -4,7 +4,7 @@
   </head>
     <body>
       <font size="+10" color="green">
-        Eric is da best!<br>
+        Shrek!<br>
       </font>
       <img src="<img src="gr82bmre.github.io/download.jpeg
 ">
