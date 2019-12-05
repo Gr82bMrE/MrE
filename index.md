@@ -8,6 +8,6 @@
       </font>
       <img src="<img src="gr82bmre.github.io/download.jpeg"><br>
                                                            <a href="gr82bmre.github.io/index.html">IDK</a><br>
-     <img src="gr82bmre.github.io/giphy.gif"
+     <img src="https://gr82bmre.github.io/giphy.gif"
   </body>
 </html>
