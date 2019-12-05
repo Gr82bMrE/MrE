@@ -7,6 +7,6 @@
         Shrek!<br>
       </font>
       <img src="<img src="gr82bmre.github.io/download.jpeg"><br>
-                                                           <address href="gr82bmre.github.io/IDK">IDK</address>
+                                                           <address href="gr82bmre.github.io/IDK.md">IDK</address>
   </body>
 </html>
