@@ -1,5 +1,4 @@
-<DOCTYPEhtml>
-  <html>
+<html>
    <head>
      <font size="+10" color="red">IDK</font>
    </head>
