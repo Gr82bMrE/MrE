@@ -9,8 +9,11 @@
         Shrek!<br>
       </font>
       <font color="green">
-      <img src="<img src="https://gr82bmre.github.io/download.jpeg" height="20%" width="20%"> <img src="gr82bmre.github.io/tenor (1).gif"><br>
-    <img src="https://gr82bmre.github.io/giphy.gif">
+      <img src="https://gr82bmre.github.io/download.jpeg" height="20%" width="20%"> 
+        <img src="https://gr82bmre.github.io/tenor (1).gif"><br>
+    <img src="https://gr82bmre.github.io/giphy.gif"><br>
+       When people see new iphone.<br>
+      <img src="https://gr82bmre.github.io/tenor.gif">
           </font>
   </body>
 </html>
