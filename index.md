@@ -2,7 +2,7 @@
   <head>
     Eric's Website!<br>
   </head>
-    <body>
+    <body style="background-color:black;">
       <font size="+10" color="green">
         Shrek!<br>
       </font>
