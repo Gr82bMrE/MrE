@@ -10,8 +10,7 @@
       </font>
       <font color="green">
       <img src="https://gr82bmre.github.io/download.jpeg" height="20%" width="20%"> 
-        <img src="https://gr82bmre.github.io/tenor (1).gif">
-        <img src="https://gr82bmre.github.io/another-baby-yoda-meme_o_3377699721008481.jpg" height="-50%" width="-50%"><br>
+        <img src="https://gr82bmre.github.io/tenor (1).gif"><br>
         Baby yoda is so cute!<br>
     <img src="https://gr82bmre.github.io/giphy.gif"><br>
        When people see new iphone.<br>
