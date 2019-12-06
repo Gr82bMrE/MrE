@@ -1,6 +1,8 @@
 <html>
-  <head>
+  <head> 
+    <font color="green">
     Eric's Website!<br>
+    </font>
   </head>
     <body style="background-color:black;">
       <font size="+10" color="green">
