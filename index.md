@@ -15,7 +15,7 @@
     <img src="https://gr82bmre.github.io/giphy.gif"><br>
        When people see new iphone.<br>
       <img src="https://gr82bmre.github.io/tenor.gif"><br>
-        <a href="https://gr82bmre.github.io/IDK.gitmodule">IDK</a>
+        <a href="https://gr82bmre.github.io/IDK">IDK</a>
           </font>
   </body>
 </html>
